@@ -1,0 +1,24 @@
+.header-container {
+  background-color: #dfdada;
+  border-bottom: 8px solid #f1ee0983;
+  padding: 10px 20px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+}
+
+.search-slot {
+  width: 300px;
+}
+.logo-img {
+  height: 50px;
+  width: auto;
+}
+
